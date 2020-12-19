@@ -24,7 +24,7 @@ namespace _03.TreasureFinder
 
                 for (int i = 0; i < message.Length; i++)
                 {
-                    if (keyIndex >= keys.Length)
+                    if (keyIndex >= keys.Length && keyIndex > 0)
                     {
                         keyIndex = 0;
                     }

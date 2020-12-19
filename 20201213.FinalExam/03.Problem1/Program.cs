@@ -16,11 +16,11 @@ namespace _03.Problem1
             {
                 string input = Console.ReadLine();
 
-                Match m = Regex.Match(input, regex);
+                Match match = Regex.Match(input, regex);
 
-                if (m.Success)
+                if (match.Success)
                 {
-                    string password = m.Groups["first"].Value + m.Groups["second"].Value + m.Groups["third"].Value + m.Groups["fourth"].Value;
+                    string password = match.Groups["first"].Value + match.Groups["second"].Value + match.Groups["third"].Value + match.Groups["fourth"].Value;
                     Console.WriteLine($"Password: {password}");
                 }
                 else
