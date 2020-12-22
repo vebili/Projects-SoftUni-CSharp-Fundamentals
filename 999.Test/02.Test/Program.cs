@@ -13,7 +13,7 @@ namespace _02.Test
             for (int i = 0; i < n; i++)
             {
                 string input = Console.ReadLine();
-                Regex regex = new Regex(pattern);
+                //Regex regex = new Regex(pattern);
                 var matches = Regex.Match(input, pattern);
                 int strenght = matches.Groups["name"].Value.Length;
                 int armour = matches.Groups["titel"].Value.Length;
