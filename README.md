@@ -1,8 +1,8 @@
 # Projects
 C# Fundamentals SoftUni Solutions 2020 <br>
 All lab problems and exercises from this module, including different cases in exams. <br>
-01.C# Fundamentals Intro and Basic
-02.C# Fundamentals Data Types and Variables
+01.C# Fundamentals Intro and Basic <br>
+02.C# Fundamentals Data Types and Variables <br>
 03.C# Fundamentals Arrays
 04.C# Fundamentals Methods
 05.C# Fundamentals Lists
