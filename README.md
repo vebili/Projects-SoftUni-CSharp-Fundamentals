@@ -5,8 +5,8 @@ All lab problems and exercises from this module, including different cases in ex
 02.C# Fundamentals Data Types and Variables <br>
 03.C# Fundamentals Arrays <br>
 04.C# Fundamentals Methods <br>
-05.C# Fundamentals Lists
-06.C# Fundamentals Objects and Classes
+05.C# Fundamentals Lists <br>
+06.C# Fundamentals Objects and Classes <br>
 07.C# Fundamentals Associative Arrays
 08.C# Fundamentals String and Text Processing
 09.C# Fundamentals Regular Expressions Regex
