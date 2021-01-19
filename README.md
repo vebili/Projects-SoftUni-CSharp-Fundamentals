@@ -11,3 +11,4 @@ All lab problems and exercises from this module, including different cases in ex
 08.C# Fundamentals String and Text Processing <br>
 09.C# Fundamentals Regular Expressions Regex <br>
 MidExam <br>
+Exam
