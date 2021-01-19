@@ -9,4 +9,5 @@ All lab problems and exercises from this module, including different cases in ex
 06.C# Fundamentals Objects and Classes <br>
 07.C# Fundamentals Associative Arrays <br>
 08.C# Fundamentals String and Text Processing <br>
-09.C# Fundamentals Regular Expressions Regex
+09.C# Fundamentals Regular Expressions Regex <br>
+MidExam <br>
