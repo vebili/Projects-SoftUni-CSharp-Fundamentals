@@ -1,4 +1,5 @@
 # Projects
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vebili.Projects-SoftUni-CSharp-Fundamentals)<br>
 C# Fundamentals SoftUni Solutions 2020 <br>
 All lab problems and exercises from this module, including different cases in exams. <br>
 01.C# Fundamentals Intro and Basic <br>
