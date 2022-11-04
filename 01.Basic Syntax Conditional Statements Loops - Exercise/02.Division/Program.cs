@@ -18,13 +18,10 @@ namespace _02.Division
             else if (num % 2 == 0 && num % 3 == 0)
             {
                 Console.WriteLine("The number is divisible by 6");
-
             }
             else if (num % 2 == 0)
             {
                 Console.WriteLine("The number is divisible by 2");
-
-
             }
             else if (num % 3 == 0)
             {
